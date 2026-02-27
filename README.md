@@ -8,11 +8,11 @@ Welcome to the **5th SEM CSE Notes Repository** for RVCE! 🎓 This repo is stru
 
 Inside the repo, you’ll find folders for each subject:
 
-* `AIML/` (Artificial Intelligence & Machine Learning)
-* `DBMS/` (Database Management Systems)
-* `TOC/` (Theory of Computation)
-* `Electives/` (Cloud Computing)
-* `POME/` (Principles of Management and Economics)
+* [`AIML/`](https://github.com/Hitme02/5th-SEM-CS-Cluster/tree/main/AIML%20(IS353IA)) (Artificial Intelligence & Machine Learning)
+* [`DBMS/`](https://github.com/Hitme02/5th-SEM-CS-Cluster/tree/main/DBMS%20(CD252IA)) (Database Management Systems)
+* [`TOC/`](https://github.com/Hitme02/5th-SEM-CS-Cluster/tree/main/TOC%20(CS354TA)) (Theory of Computation)
+* [`Electives/`](https://github.com/Hitme02/5th-SEM-CS-Cluster/tree/main/ELECTIVE%20(XX355TBX)) (Cloud Computing)
+* [`POME/`](https://github.com/Hitme02/5th-SEM-CS-Cluster/tree/main/POME%20(HS251TA)) (Principles of Management and Economics)
 
 ---
 
@@ -24,18 +24,18 @@ Here’s the recommended roadmap for this semester:
 
 * Focus primarily on the **notes**.
 * The **Notion notes** are completely simplified and exam-ready.
-* For numerical concepts, watch **Mahesh Huddar** on YouTube (links are embedded in the Notion notes).
+* For numerical concepts, watch [**Mahesh Huddar**](https://www.youtube.com/@MaheshHuddar) on YouTube (links are embedded in the Notion notes).
 * 🎧 **Pro-Tip:** Podcast-style revision works exceptionally well for this subject.
 
 ### 🗄️ Database Management Systems (DBMS)
 
-* **Gate Smashers** on YouTube is an absolute lifesaver. They are the best resource out there, especially for **Normalization** and **Transactions** concepts.
+* [**Gate Smashers**](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y&si=XADnvLMP0UVaSLj5) on YouTube is an absolute lifesaver. They are the best resource out there, especially for **Normalization** and **Transactions** concepts.
 * For study material, the **PPTs** provided are more than enough. You can also refer to the **Notion notes** as an alternative.
 
 ### 🧮 Theory of Computation (TOC)
 
 * **Warning:** This is a tough, logical subject that usually comes really hard in exams. Dedicate more study time to it!
-* Start with **Sudhakar Atchala** on YouTube to build your foundations, but *don't rely entirely on his videos*.
+* Start with [**Sudhakar Atchala**](https://youtube.com/playlist?list=PLXj4XH7LcRfBkMlS_9aebcY78NLFwhE4M&si=LzrozQ7KGRwv6li3) on YouTube to build your foundations, but *don't rely entirely on his videos*.
 * The **CIE-wise breakup notes** provided in the repo are a genuine lifesaver for exams—stick to them closely.
 
 ### ☁️ Electives (Cloud Computing)
